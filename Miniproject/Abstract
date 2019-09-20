@@ -1,0 +1,6 @@
+                                        SIGN LANGUAGE RECOGNITION
+
+The aim of the project is the recognition of sign language from videos . Our work is to extract the frames from 
+videos which depicts the more significant frames that can help to identify exact sign by avoiding noise frames.
+Extraction of frames is been done using OpenCV .From these abstacted frames the most significant ones are identified 
+using activation function.
