@@ -1,0 +1,13 @@
+******CURRENT STATUS*******
+
+Extracted frames from video . Currently coding on finding frame differences of adjacent video frames .
+
+*******FORTHCOMING PLANS*******
+
+Planning to find significant frames needed to detect moving objects in a frame
+
+*******CURRENT ISSUES********
+
+Obscurity in the code for frame differencing 
+Working hardly on it to rectify
+
