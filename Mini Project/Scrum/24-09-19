@@ -1,0 +1,11 @@
+CURRENT STATUS
+
+*Extracted frames from videos.Currently working on finding the difference between concurrent frames.
+
+FORTH COMING PLAN
+
+*Creating an threshold value to find significant frame using the differnce of frames.
+
+CURRENT ISSUES
+
+*Implementation of finding frame difference seems to be unclear.
