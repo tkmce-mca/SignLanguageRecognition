@@ -10,7 +10,7 @@ Downloaded Opencv , installation errors take place
 
 worked on installation errors 
 
-28-08-2019
+30-08-2019
 
 succesfully installed Opencv
 
@@ -24,24 +24,25 @@ since not well versed in Opencv , trained myself on connecting Opencv and python
 
 05-09-2019
 
-Started workong on frame extraction
-
-06-09-2019
-
 Collected videos showing sign language communication
+
+10-09-2019
+
+Started working on grayscale conversion of collected videos
 
 14-09-2019
 
-Developed code on frame extraction 
+Developed code on grayscale conversion 
 
 20-09-2019
 
-Fixed errors in frame extraction code and collected outputs
+Fixed errors in grayscale code and collected outputs
 
 23-09-2019
 
-Worked on frame differencing , fixing errors 
+Tested frame extraction code
 
 24-09-2019
 
-Modified frame differencing code
+Modified frame extraction code
+
