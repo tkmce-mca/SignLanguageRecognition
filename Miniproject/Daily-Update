@@ -46,3 +46,20 @@ Tested frame extraction code
 
 Modified frame extraction code
 
+16-09-2019
+
+code generation for finding frame differencing
+
+21-09-2019
+
+finding centroid between frames
+
+26-09-2019
+
+plotted centroid and fixed a threshold
+
+29-09-2019
+
+extracted key frames but some issues are found , fixing it
+
+
