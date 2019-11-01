@@ -1,0 +1,10 @@
+1. N <- No.of frames
+2. for i <- 0 to N do
+      3. Rect(i) = SmallestBoundingBox(fi)
+      4. (x,y) = Coordinates of Rect(i)
+      5. (fi.x , fi.y) = centroid(bounded image in Rect(i))
+      /* Calculating centroid based on moments */
+      6. (Fi.x,Fi.y) = (x+fi.x,y+fi.y)
+      7. Centroid = (Fi.x,Fi.y)
+      8. return Cetroid
+ 9. end
